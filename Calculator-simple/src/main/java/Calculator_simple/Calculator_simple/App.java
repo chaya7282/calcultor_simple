@@ -7,6 +7,7 @@ package Calculator_simple.Calculator_simple;
 public class App 
 {
 	public static double sum(double a, double b) {
+	//chaya	
 		return a + b;
 	}
 
